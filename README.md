@@ -9,3 +9,5 @@
 [Krystian](https://andrew-beadman.github.io/Krystian)
 
 [Krystian - Hard Mode](https://andrew-beadman.github.io/Krystian-hard)
+
+[Krystian - Mad Mode](https://andrew-beadman.github.io/Krystian-mad)
