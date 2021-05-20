@@ -15,3 +15,5 @@
 [Krystian - Mad Mode](https://andrew-beadman.github.io/Krystian-mad)
 
 [Krystian - Odd Edition](https://andrew-beadman.github.io/Krystian-matt)
+
+℗ STUDENTS & FOOLS
