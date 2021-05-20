@@ -1,4 +1,4 @@
-# ANDREW-BEADMAN STUDENT FILES - https://andrew-beadman.github.io
+# ANDREW-BEADMAN STUDENT FILES
 
 [index](https://andrew-beadman.github.io/web/Home%20Page/)
 
