@@ -16,4 +16,4 @@
 
 [Krystian - Odd Edition](https://andrew-beadman.github.io/Krystian-matt)
 
-℗ STUDENTS & FOOLS
+© STUDENTS & FOOLS
