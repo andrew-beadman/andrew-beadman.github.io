@@ -4,6 +4,8 @@
 
 [game](https://andrew-beadman.github.io/game)
 
+# Fool
+
 [adam-game](https://andrew-beadman.github.io/adam)
 
 # Krystian
