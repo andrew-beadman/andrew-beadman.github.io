@@ -6,7 +6,7 @@
 
 ----------------------------------------------------------
 
-# Fool
+# Adam
 
 [adam-game](https://andrew-beadman.github.io/adam)
 
