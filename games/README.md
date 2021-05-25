@@ -1,6 +1,6 @@
 # ANDREW
 
-[index](https://andrew-beadman.github.io/web/Home%20Page/)
+
 
 [game](https://andrew-beadman.github.io/game)
 
@@ -24,6 +24,5 @@
 
 [Krystian - Mad Mode](https://andrew-beadman.github.io/Krystian-mad)
 
-[Krystian - Odd Edition](https://andrew-beadman.github.io/Krystian-matt)
 
 © STUDENTS & FOOLS
