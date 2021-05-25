@@ -5,3 +5,5 @@
 
 
 [Home](https://andrew-beadman.github.io/)
+
+© STUDENTS & FOOLS
