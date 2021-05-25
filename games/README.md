@@ -6,7 +6,7 @@
 
 ----------------------------------------------------------
 
-# Adam
+# ADAM
 
 [adam-game](https://andrew-beadman.github.io/adam)
 
@@ -16,7 +16,7 @@
 
 ----------------------------------------------------------
 
-# Krystian
+# KRYSTIAN
 
 [Krystian](https://andrew-beadman.github.io/Krystian)
 
