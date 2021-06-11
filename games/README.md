@@ -34,6 +34,8 @@
 
 [clubpenguinfreeroam-master](https://andrew-beadman.github.io/games/clubpenguinfreeroam-master)
 
+[Webcraft](https://andrew-beadman.github.io/games/WebCraft/singleplayer.html)
+
 [Home](https://andrew-beadman.github.io/)
 
 
