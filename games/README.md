@@ -36,6 +36,8 @@
 
 [Webcraft](https://andrew-beadman.github.io/games/WebCraft/singleplayer.html)
 
+[Minecraft-classic](andrew-beadman.github.io/games/classic/)
+
 [Home](https://andrew-beadman.github.io/)
 
 
