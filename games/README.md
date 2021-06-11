@@ -25,6 +25,13 @@
 [Krystian - Mad Mode](https://andrew-beadman.github.io/Krystian-mad)
 
 
+
+# OTHERS
+
+[Pizzatron](https://andrew-beadman.github.io/Pizzatron)
+
+[BeanCounters](https://andrew-beadman.github.io/games/BeanCounters/)
+
 [Home](https://andrew-beadman.github.io/)
 
 © STUDENTS & FOOLS
