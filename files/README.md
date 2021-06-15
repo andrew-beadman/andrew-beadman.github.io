@@ -8,6 +8,9 @@
 
 [webv2](https://andrew-beadman.netlify.app/)
 
+# Others
+
+[bruhh](https://andrew-beadman.github.io/files/bruhh/)
 
 [Home](https://andrew-beadman.github.io/)
 
